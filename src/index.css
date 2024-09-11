@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: chill;
+    src: url(./assets/fonts/chill.woff);
+}
+@font-face {
+    font-family:heady;
+    src: url(./assets/fonts/heady.woff2);
+}
+@font-face {
+    font-family:tiny;
+    src: url(./assets/fonts/tiny.woff2);
+}
+@font-face {
+    font-family:tinyt;
+    src: url(./assets/fonts/tinyt.woff2);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    user-select: none;
+    cursor: none;
+
+}
+
+.icon{
+    box-shadow:rgba(75, 75, 75, 0.4) 5px 5px;
+    
+}
+.boxInner{
+    box-shadow: 0 0 15px #FFF1E6;
+}
+.glow2{
+    text-shadow:#FFF1E6 0px 0 5px ;
+}
