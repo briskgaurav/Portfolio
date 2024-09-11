@@ -1,7 +1,5 @@
 # Welcome to Gaurav's Portfolio
 
-![Portfolio Banner](https://briskgaurav.netlify.app/assets/banner.png) <!-- Replace with your actual banner image URL -->
-
 Welcome to my personal portfolio! I'm Gaurav, a passionate [Your Profession/Field] with a knack for [Your Specialization]. This repository showcases my work and provides insight into my skills and projects.
 
 ## 🚀 Live Site
@@ -23,10 +21,10 @@ This portfolio is designed to highlight my skills, projects, and achievements. I
 - **JavaScript**: For interactive features
 - **Netlify**: For hosting
 
-## 🛠 Installation
+## 🛠 How to run
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
+1. **Run the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   npm run dev
