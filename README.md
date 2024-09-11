@@ -1,8 +1,30 @@
-# React + Vite
+# Welcome to Gaurav's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! I'm Gaurav, a passionate coder with a knack for frontend developer. This repository showcases my work and provides insight into my skills and projects.
 
-Currently, two official plugins are available:
+## 🚀 Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out my live portfolio at: [briskgaurav.netlify.app](https://briskgaurav.netlify.app/)
+
+## 📜 About
+
+This portfolio is designed to highlight my skills, projects, and achievements. It features:
+- A clean and modern design
+- Responsive layout for all devices
+- Interactive elements showcasing my projects
+- A section for my professional experience and skills
+
+## 🔧 Technologies Used
+
+- **HTML5**: For structuring the content
+- **CSS3**: For styling and layout
+- **JavaScript**: For interactive features
+- **Netlify**: For hosting
+
+## 🛠 How to run
+
+To run this project locally, follow these steps:
+
+1. **Run the repository:**
+   ```bash
+   npm run dev
