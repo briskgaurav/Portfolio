@@ -1,6 +1,6 @@
 # Welcome to Gaurav's Portfolio
 
-Welcome to my personal portfolio! I'm Gaurav, a passionate [Your Profession/Field] with a knack for [Your Specialization]. This repository showcases my work and provides insight into my skills and projects.
+Welcome to my personal portfolio! I'm Gaurav, a passionate coder with a knack for frontend developer. This repository showcases my work and provides insight into my skills and projects.
 
 ## 🚀 Live Site
 
