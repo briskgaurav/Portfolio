@@ -46,7 +46,7 @@ function Skills({ forwardRef }) {
             "Figma",
             "UI/UX",
           ].map((elem, index) => (
-            <>
+            
               <motion.div
                 key={index}
                 initial={{ opacity: 0 }}
@@ -72,7 +72,7 @@ function Skills({ forwardRef }) {
                   {elem}
                 </h1>
               </motion.div>
-            </>
+            
           ))}
         </motion.div>
       </div>
