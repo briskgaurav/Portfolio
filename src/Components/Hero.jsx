@@ -68,7 +68,7 @@ function Hero({scrollToSection,refa,refdid,refskill,refcontact,refwork}) {
            
        
       </div>
-      <div className="flex lg:top-[90%] top-[75%] mx-auto left-[15%] lg:left-[80%] absolute lg:gap-2 gap-5">
+      <div className="flex lg:top-[90%] top-[80%] mx-auto left-[15%] lg:left-[80%] absolute lg:gap-2 gap-5">
         <motion.a whileHover={{
           scale: 1.05,
         }}
