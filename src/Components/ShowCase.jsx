@@ -117,7 +117,7 @@ function ShowCase({forwardRef}) {
                   Check site 
                 </a>
                 <a
-                  href={elem.site}
+                  href={elem.source}
                   className="px-10 py-2 hover:bg-[#FFF1E6] hover:text-[#333333] bg-[#333333] rounded-full text-sm text-white"
                 >
                   Source code
