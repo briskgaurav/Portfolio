@@ -16,10 +16,11 @@ This portfolio is designed to highlight my skills, projects, and achievements. I
 
 ## 🔧 Technologies Used
 
-- **HTML5**: For structuring the content
-- **CSS3**: For styling and layout
-- **JavaScript**: For interactive features
-- **Netlify**: For hosting
+- **REACT**
+- **GSAP**
+- **TAILWIND**
+- **FRAMER-MOTION**
+- **Netlify**
 
 ## 🛠 How to run
 
