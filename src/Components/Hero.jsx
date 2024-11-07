@@ -72,7 +72,7 @@ function Hero({scrollToSection,refa,refdid,refskill,refcontact,refwork}) {
         <motion.a whileHover={{
           scale: 1.05,
         }}
-        whileTap={{ scale: 0.9 }} href="https://drive.google.com/file/d/1dzHCpOTiLB0iANj4CKr67cnxAM3XApew/view?usp=drive_link" className="font-[chill] rounded-lg text-[#e8cbb5] py-2 px-5 buttons  bg-[#333333] text-lg lg:text-base flex items-center justify-center gap-2 border-[1px] border-[#e8cbb5]">
+        whileTap={{ scale: 0.9 }} href="https://drive.google.com/file/d/15aswsvRASPtenYEyZqhFTaFY0Brr4Q3q/view?usp=drive_link" className="font-[chill] rounded-lg text-[#e8cbb5] py-2 px-5 buttons  bg-[#333333] text-lg lg:text-base flex items-center justify-center gap-2 border-[1px] border-[#e8cbb5]">
           Resume <MdEditDocument />
         </motion.a>
         <motion.button whileHover={{

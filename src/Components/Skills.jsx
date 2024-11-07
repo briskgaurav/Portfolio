@@ -37,14 +37,14 @@ function Skills({ forwardRef }) {
             "HTML5",
             "CSS",
             "Tailwind CSS",
-            "Blender",
-            "GSAP",
-            "Framer Motion",
-            "Blender 3D",
-            "JavaScript",
+            "TypeScript",
             "React.js",
+            "Redux",
+            "JavaScript",
+            "Blender 3D",
+            "GLSL",
             "Figma",
-            "UI/UX",
+            "Threejs",
           ].map((elem, index) => (
             
               <motion.div

@@ -1,18 +1,18 @@
 import React, { useState } from "react";
 import { easeIn, motion } from "framer-motion";
 import db from '../assets/videos/Db.mp4'
-import ochi from '../assets/videos/ochi.mp4'
+import docklet from '../assets/videos/Docklet.mov'
 import refokus from '../assets/videos/refokus.mp4'
 import bubble from '../assets/videos/bubble.mp4'
 import obys from '../assets/videos/obys.mp4'
 
 const Products = [
   {
-    name: "OCHI DESIGN",
+    name: "DOCKLET APP",
     Description:
-      "Ochi Design, where innovative aesthetics meet functionality. This project showcases modern website that exemplifies my commitment to creating user-friendly experiences.",
-    source: "https://github.com/briskgaurav/OCHI",
-    site: "https://ochhi.netlify.app/",
+      "Think notes, but aesthetic. Built with React, TypeScript and Redux Toolkit, DOCKLET Go!!",
+    source: "https://github.com/briskgaurav/Docklet-WebApp",
+    site: "https://docklet.netlify.app/",
   },
   {
     name: "OBYS AGENCY",
@@ -45,7 +45,7 @@ const Products = [
 ];
 
 const data=[{
-  vid:ochi,
+  vid:docklet,
 },
 {vid:obys},
 {vid:db},
